@@ -103,6 +103,3 @@ Before you start, make sure you have installed and configured the following tool
      http://<external-ip>:8000/docs
      ```
 
-## Additional Resources
-
-- For a complete list of commands used and step-by-step guidance, check the `assets` folder where you can find the `commands.txt` and a detailed
